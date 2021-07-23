@@ -64,4 +64,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hasibulhasibit">
 </a>
-<a href="https://github.com/hasibulhasibit?tab=followers"><img src="https://img.shields.io/github/followers/Hasibul-islam-it?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/hasibulhasibit?tab=followers"><img src="https://img.shields.io/github/followers/hasibulhasibit?label=Followers&style=social" alt="GitHub Badge"></a>
